@@ -26,7 +26,7 @@ class DashboardScreen extends StatelessWidget {
         crossAxisCount: 2,
         children: [
           DashboardItem(
-              title: 'Usuarios', icon: Icons.people, route: '/usuarios'),
+              title: 'Personas', icon: Icons.people, route: '/Personas'),
           DashboardItem(
               title: 'Empresas', icon: Icons.business, route: '/empresas'),
           DashboardItem(
